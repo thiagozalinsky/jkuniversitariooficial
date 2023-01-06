@@ -1,0 +1,110 @@
+<!--<div class="Numeros">
+                <div class="title">
+                    <h3>1k+</h3>
+                <p>Meus clientes</p>
+                </div><!--title-->
+
+                <div class="title">
+                    <h3></h3>
+                    <p></p>
+                </div><!--title-->
+
+                <div class="title">
+                    <h3></h3>
+                    <p></p>
+                </div><!--title-->
+
+            </div><!--Numeros-->
+        </div><!--main-title-->
+    </div><!--Section-1-bg--> -->
+
+
+    <section class="C-sobre" data-aos="fade-up">
+        <div class="image">
+            <img src="about.jpeg">
+        </div><!--image-->
+
+        <div class="Sobre-mim">
+            <h1>Acomodações</h1>
+            <h4>Alugueis  <span>Mensais</span></h4>
+            <p>Apartamentos 
+                <br> Jk's
+                <br> Quartos
+                <br> Kitnet's
+                
+                <br> PageMaker.</p>
+                <button class="btn">Saber mais</button>
+
+        </div><!--Sobre-mim-->
+    </section><!---C-sobre-->
+
+
+    <section class="Container" data-aos="fade-up">
+        <h1>Internet cortesia</h1>
+        <p>Inquilinos ganham wifi cortesia </p>
+        <p>Ampla área de uso comun </p>
+        <p>Box para carro ou moto</p>
+        <div class="C-card" data-aos="fade-up">
+            <div class="Card">
+                <img src="phone.png" alt="phone">
+                <h3>Apartamentos Mobiliados</h3>
+                <h4>Aqui vai um brevo resumo 
+                    <br> Aqui vai um brevo resumo 
+                    <br> Aqui vai um brevo resumo 
+                    <br> impressos</h4>
+            </div><!--Card-->
+
+            <div class="Card">
+                <img src="desktop.png" alt="desktop">
+                <h3>Quartos Mobiliados</h3>
+                <h4>Aqui vai um brevo resumo 
+                    <br> Aqui vai um brevo resumo 
+                    <br> Aqui vai um brevo resumo 
+                    <br> Aqui vai um brevo resumo</h4>
+            </div><!--Card-->
+
+            <div class="Card">
+                <img src="grafico.png" alt="grafico">
+                <h3>Jk' Mobiliados</h3>
+                <h4> Aqui vai um brevo resumo 
+                    <br>  Aqui vai um brevo resumo 
+                    <br>  Aqui vai um brevo resumo 
+                    <br>  Aqui vai um brevo resumo </h4>
+            </div><!--Card-->
+        </div><!--C-card-->
+
+        <div class="C-card-2" data-aos="fade-up">
+
+            <div class="Card">
+                <img src="computador.png" alt="computador">
+                <h3>Espaço livre</h3>
+                <h4>Aqui vai um breve resumo 
+                    <br> mais um resumo 
+                    <br> outro resumo 
+                    <br> resumo</h4>
+            </div><!--Card-->
+
+
+            <div class="Card">
+                <img src="camera.png" alt="camera">
+                <h3>Resumo</h3>
+                <h4>resumo 
+                    <br> resumo 
+                    <br> resumo 
+                    <br> resumo</h4>
+            </div><!--Card-->
+
+
+            <div class="Card">
+                <img src="paisagem.png" alt="paisagem">
+                <h3>Resumo</h3>
+                <h4>Resumo  
+                    <br> resumo  
+                    <br> resumo 
+                    <br> resumo</h4>
+            </div><!--Card-->
+
+        </div><!--C-card-2-->
+    </section><!--conatiner-->
+
+
